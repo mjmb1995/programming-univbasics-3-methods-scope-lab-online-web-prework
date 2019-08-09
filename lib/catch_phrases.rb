@@ -8,6 +8,9 @@ def toadstool
   puts status
 end
 
+def link
+  status = 
+
 def any_phrase(phrase)
   puts phrase
 end
